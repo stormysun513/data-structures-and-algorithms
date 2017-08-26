@@ -3,7 +3,7 @@ CXXFLAGS = -Wall -g -std=c++11
 
 .PHONY: clean
 
-TARGET = mergesort
+TARGET = selectionsort
 
 all: $(TARGET).app
 
